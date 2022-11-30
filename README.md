@@ -17,7 +17,7 @@
 
 ### 📚 Study
 #### * History
-<div class="in" style="font-weight:bold">
+<div style='text-indent:15px' style="font-weight:bold">
     <p>💙 ~ing : analytics </p>
     <p>🧡 ~2020 : statistics </p>
     <p>🤍 ~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </p>
