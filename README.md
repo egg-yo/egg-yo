@@ -12,7 +12,7 @@
 <br><br>
 
 ### 👨‍🌾 About Me 👨‍🌾 
-<a href="https://wolny.tistory.com/"><img src="https://img.shields.io/badge/My daily life blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://wolny.tistory.com/"/></a><a href="mailto:dldmswl10012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dldmswl10012@gmail.com"/></a>
+<a href="https://wolny.tistory.com/"><img src="https://img.shields.io/badge/My daily life blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://wolny.tistory.com/"/></a><a href="mailto:dldmswl10012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dldmswl10012@gmail.com/"></a><a href="https://eggs-graffiti.notion.site/Portforlio-ea9dcf6a58a740c2aacf94da7bb1ed7d/"><img src="https://img.shields.io/badge/Notion-D0A9F5?style=flat-square&logo=Gmail&logoColor=black&link=https://eggs-graffiti.notion.site/Portforlio-ea9dcf6a58a740c2aacf94da7bb1ed7d/"></a>
 <br><br>
 
 ### 📚 Study
