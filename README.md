@@ -18,9 +18,9 @@
 ### 📚 Study
 #### * History
 <div style="text-indent:15px;font-weight:bold">
-    <span>💙 ~ing : analytics </span>
-    <span>🧡 ~2020 : statistics </span>
-    <span>🤍 ~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </span>
+    <span>& nbsp; 💙 ~ing : analytics </span>
+    <span>& nbsp; 🧡 ~2020 : statistics </span>
+    <span>& nbsp; 🤍 ~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </span>
 </div>
 
 <span style="font-weight:bold">💙 ~ing : analytics </span><br>
