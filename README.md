@@ -17,13 +17,13 @@
 
 ### 📚 Study
 #### * History
-<span style="font-weight:bold">💙~ing : analytics </span><br>
-<span style="font-weight:bold">🧡~2020 : statistics </span><br>
-<span style="font-weight:bold">🤍~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </span><br>
-<span style="font-weight:bold">💜~2022 : OLAP, ETL, BI </span><br>
+<span style="font-weight:bold">💙 ~ing : analytics </span><br>
+<span style="font-weight:bold">🧡 ~2020 : statistics </span><br>
+<span style="font-weight:bold">🤍 ~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </span><br>
+<span style="font-weight:bold">💜 ~2022 : OLAP, ETL, BI </span><br>
 #### * To do
-<span style="font-weight:bold">💚2023 : kafka</span><br>
-<span style="font-weight:bold">💛business analysis</span><br>
+<span style="font-weight:bold">💚 2023 : kafka</span><br>
+<span style="font-weight:bold">💛 business analysis</span><br>
 <br><br>
 
 
