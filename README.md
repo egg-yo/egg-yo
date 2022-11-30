@@ -1,16 +1,30 @@
-### Hi there 👋
+<p class="ng-font" align="center"><li>egg's graffiti</li></p>
 
-<!--
-**egg-yo/egg-yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack 🛠 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/></p>
 
-Here are some ideas to get you started:
+### 👨‍🌾 About Me 👨‍🌾 
+<a href="https://wolny.tistory.com/"><img src="https://img.shields.io/badge/My daily-life blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://wolny.tistory.com/"/></a><a href="mailto:dldmswl10012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=red&link=mailto:dldmswl10012@gmail.com"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📚 History
+##### *💙*
+##### *🧡*
+##### *💚*
+##### *💜*
+##### *🤍*
+##### *💛*
+
+</div>
+
+### This And That
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egg-yo&show_icons=true&theme=radical)
+
+<div align=center>
+
+### 🎅🔖Visitors
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/egg-yo)](https://github.com/egg-yo)]
