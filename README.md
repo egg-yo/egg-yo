@@ -1,11 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
-body {
-    font-family: 'Dongle', sans-serif;
-}
-
 <h1 class="ng-font" align="center"><b>egg's graffiti</b></h1>
 
-<h3 class="ng-font">경험을 다듬고 성장해나가는 공간입니다 :)</h3>
+<h3 class="ng-font" align="center">경험을 다듬고 성장해나가는 공간입니다 :)</h3>
 
 
 ### 🛠 Tech Stack 🛠 
@@ -22,14 +17,13 @@ body {
 
 ### 📚 Study
 #### * History
-<h3><b>*💙 ~ing : analytics*</b></h3>
-<h3><b>*🧡*</b></h3>
-<span style="font-weight:bold">🧡~2020 : statistics </span>
-<span style="font-weight:bold">🤍~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </span>
-<span style="font-weight:bold">💜~2022 : OLAP, ETL, BI </span>
+<span style="font-weight:bold">💙~ing : analytics </span><br>
+<span style="font-weight:bold">🧡~2020 : statistics </span><br>
+<span style="font-weight:bold">🤍~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </span><br>
+<span style="font-weight:bold">💜~2022 : OLAP, ETL, BI </span><br>
 #### * To do
-<h3><b>*💚2023 : kafka*</b></h3>
-<h3><b>*💛business analysis*</b></h3>
+<span style="font-weight:bold">💚2023 : kafka</span><br>
+<span style="font-weight:bold">💛business analysis</span><br>
 
 </div>
 
