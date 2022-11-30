@@ -19,9 +19,10 @@
 #### * History
 <div style="text-indent:15px;font-weight:bold">
     <span>💙 ~ing : analytics </span>
-    <p>🧡 ~2020 : statistics </p>
-    <p>🤍 ~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </p>
+    <span>🧡 ~2020 : statistics </span>
+    <span>🤍 ~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </span>
 </div>
+
 <span style="font-weight:bold">💙 ~ing : analytics </span><br>
 <span style="font-weight:bold">🧡 ~2020 : statistics </span><br>
 <span style="font-weight:bold">🤍 ~2021 : platform tools(gcp,zepplin,databricks,tableau ...) </span><br>
